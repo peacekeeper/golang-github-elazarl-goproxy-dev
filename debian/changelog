@@ -1,5 +1,5 @@
 golang-github-elazarl-goproxy (0.0~git20151104.76.bee2110-1) UNRELEASED; urgency=medium
 
-  * Initial release (Closes: TODO)
+  * Initial release
 
  -- Markus Sabadello <markus@projectdanube.org>  Tue, 17 Nov 2015 14:00:33 +0100
